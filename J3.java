@@ -2,7 +2,7 @@ package pkg1;
 
 public class J3 {
     public static void main(String[] args) {
-        String str1 = "DhyanKulal";
+        String str1 = "shreeram";
         String c=" ";
         for(int i=0; i<=str1.length();i++) {
             System.out.println(c.repeat(str1.length()-i)+str1.substring(0,i));
@@ -13,3 +13,4 @@ public class J3 {
         }
     }
 }
+
